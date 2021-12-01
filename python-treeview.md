@@ -1,0 +1,708 @@
+```python
+ArithmeticError
+	args
+	with_traceback
+AssertionError
+	args
+	with_traceback
+AttributeError
+	args
+	with_traceback
+BaseException
+	args
+	with_traceback
+BlockingIOError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+BrokenPipeError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+BufferError
+	args
+	with_traceback
+BytesWarning
+	args
+	with_traceback
+ChildProcessError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ConnectionAbortedError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ConnectionError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ConnectionRefusedError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ConnectionResetError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+DeprecationWarning
+	args
+	with_traceback
+EOFError
+	args
+	with_traceback
+Ellipsis
+EnvironmentError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+Exception
+	args
+	with_traceback
+False
+FileExistsError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+FileNotFoundError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+FloatingPointError
+	args
+	with_traceback
+FutureWarning
+	args
+	with_traceback
+GeneratorExit
+	args
+	with_traceback
+IOError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ImportError
+	args
+	msg
+	name
+	path
+	with_traceback
+ImportWarning
+	args
+	with_traceback
+IndentationError
+	args
+	filename
+	lineno
+	msg
+	offset
+	print_file_and_line
+	text
+	with_traceback
+IndexError
+	args
+	with_traceback
+InterruptedError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+IsADirectoryError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+KeyError
+	args
+	with_traceback
+KeyboardInterrupt
+	args
+	with_traceback
+LookupError
+	args
+	with_traceback
+MemoryError
+	args
+	with_traceback
+ModuleNotFoundError
+	args
+	msg
+	name
+	path
+	with_traceback
+NameError
+	args
+	with_traceback
+None
+NotADirectoryError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+NotImplemented
+NotImplementedError
+	args
+	with_traceback
+OSError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+OverflowError
+	args
+	with_traceback
+PendingDeprecationWarning
+	args
+	with_traceback
+PermissionError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ProcessLookupError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+RecursionError
+	args
+	with_traceback
+ReferenceError
+	args
+	with_traceback
+ResourceWarning
+	args
+	with_traceback
+RuntimeError
+	args
+	with_traceback
+RuntimeWarning
+	args
+	with_traceback
+StopAsyncIteration
+	args
+	with_traceback
+StopIteration
+	args
+	value
+	with_traceback
+SyntaxError
+	args
+	filename
+	lineno
+	msg
+	offset
+	print_file_and_line
+	text
+	with_traceback
+SyntaxWarning
+	args
+	with_traceback
+SystemError
+	args
+	with_traceback
+SystemExit
+	args
+	code
+	with_traceback
+TabError
+	args
+	filename
+	lineno
+	msg
+	offset
+	print_file_and_line
+	text
+	with_traceback
+TimeoutError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+True
+TypeError
+	args
+	with_traceback
+UnboundLocalError
+	args
+	with_traceback
+UnicodeDecodeError
+	args
+	encoding
+	end
+	object
+	reason
+	start
+	with_traceback
+UnicodeEncodeError
+	args
+	encoding
+	end
+	object
+	reason
+	start
+	with_traceback
+UnicodeError
+	args
+	with_traceback
+UnicodeTranslateError
+	args
+	encoding
+	end
+	object
+	reason
+	start
+	with_traceback
+UnicodeWarning
+	args
+	with_traceback
+UserWarning
+	args
+	with_traceback
+ValueError
+	args
+	with_traceback
+Warning
+	args
+	with_traceback
+WindowsError
+	args
+	characters_written
+	errno
+	filename
+	filename2
+	strerror
+	winerror
+	with_traceback
+ZeroDivisionError
+	args
+	with_traceback
+abs
+all
+any
+ascii
+bin
+bool
+	as_integer_ratio
+	bit_length
+	conjugate
+	denominator
+	from_bytes
+	imag
+	numerator
+	real
+	to_bytes
+breakpoint
+bytearray
+	append
+	capitalize
+	center
+	clear
+	copy
+	count
+	decode
+	endswith
+	expandtabs
+	extend
+	find
+	fromhex
+	hex
+	index
+	insert
+	isalnum
+	isalpha
+	isascii
+	isdigit
+	islower
+	isspace
+	istitle
+	isupper
+	join
+	ljust
+	lower
+	lstrip
+	maketrans
+	partition
+	pop
+	remove
+	removeprefix
+	removesuffix
+	replace
+	reverse
+	rfind
+	rindex
+	rjust
+	rpartition
+	rsplit
+	rstrip
+	split
+	splitlines
+	startswith
+	strip
+	swapcase
+	title
+	translate
+	upper
+	zfill
+bytes
+	capitalize
+	center
+	count
+	decode
+	endswith
+	expandtabs
+	find
+	fromhex
+	hex
+	index
+	isalnum
+	isalpha
+	isascii
+	isdigit
+	islower
+	isspace
+	istitle
+	isupper
+	join
+	ljust
+	lower
+	lstrip
+	maketrans
+	partition
+	removeprefix
+	removesuffix
+	replace
+	rfind
+	rindex
+	rjust
+	rpartition
+	rsplit
+	rstrip
+	split
+	splitlines
+	startswith
+	strip
+	swapcase
+	title
+	translate
+	upper
+	zfill
+callable
+chr
+classmethod
+compile
+complex
+	conjugate
+	imag
+	real
+copyright
+	MAXLINES
+	_Printer__data
+	_Printer__filenames
+	_Printer__lines
+	_Printer__name
+	_Printer__setup
+credits
+	MAXLINES
+	_Printer__data
+	_Printer__filenames
+	_Printer__lines
+	_Printer__name
+	_Printer__setup
+delattr
+dict
+	clear
+	copy
+	fromkeys
+	get
+	items
+	keys
+	pop
+	popitem
+	setdefault
+	update
+	values
+dir
+divmod
+enumerate
+eval
+exec
+exit
+	eof
+	name
+filter
+float
+	as_integer_ratio
+	conjugate
+	fromhex
+	hex
+	imag
+	is_integer
+	real
+format
+frozenset
+	copy
+	difference
+	intersection
+	isdisjoint
+	issubset
+	issuperset
+	symmetric_difference
+	union
+getattr
+globals
+hasattr
+hash
+help
+hex
+id
+input
+int
+	as_integer_ratio
+	bit_length
+	conjugate
+	denominator
+	from_bytes
+	imag
+	numerator
+	real
+	to_bytes
+isinstance
+issubclass
+iter
+len
+license
+	MAXLINES
+	_Printer__data
+	_Printer__filenames
+	_Printer__lines
+	_Printer__name
+	_Printer__setup
+list
+	append
+	clear
+	copy
+	count
+	extend
+	index
+	insert
+	pop
+	remove
+	reverse
+	sort
+locals
+map
+max
+memoryview
+	c_contiguous
+	cast
+	contiguous
+	f_contiguous
+	format
+	hex
+	itemsize
+	nbytes
+	ndim
+	obj
+	readonly
+	release
+	shape
+	strides
+	suboffsets
+	tobytes
+	tolist
+	toreadonly
+min
+next
+object
+oct
+open
+ord
+pow
+print
+property
+	deleter
+	fdel
+	fget
+	fset
+	getter
+	setter
+quit
+	eof
+	name
+range
+	count
+	index
+	start
+	step
+	stop
+repr
+reversed
+round
+set
+	add
+	clear
+	copy
+	difference
+	difference_update
+	discard
+	intersection
+	intersection_update
+	isdisjoint
+	issubset
+	issuperset
+	pop
+	remove
+	symmetric_difference
+	symmetric_difference_update
+	union
+	update
+setattr
+slice
+	indices
+	start
+	step
+	stop
+sorted
+staticmethod
+str
+	capitalize
+	casefold
+	center
+	count
+	encode
+	endswith
+	expandtabs
+	find
+	format
+	format_map
+	index
+	isalnum
+	isalpha
+	isascii
+	isdecimal
+	isdigit
+	isidentifier
+	islower
+	isnumeric
+	isprintable
+	isspace
+	istitle
+	isupper
+	join
+	ljust
+	lower
+	lstrip
+	maketrans
+	partition
+	removeprefix
+	removesuffix
+	replace
+	rfind
+	rindex
+	rjust
+	rpartition
+	rsplit
+	rstrip
+	split
+	splitlines
+	startswith
+	strip
+	swapcase
+	title
+	translate
+	upper
+	zfill
+sum
+super
+tuple
+	count
+	index
+type
+	mro
+vars
+zip
+```
