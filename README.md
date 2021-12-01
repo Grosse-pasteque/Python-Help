@@ -19,7 +19,7 @@ Pour créer une boucle qui s'arrêtera forcément.
 En français ça donne:
 
 ```
-Pour variable du début de objet jusqu'à la fin de itération / variable / élément:
+Pour variable du début de l'objet jusqu'à la fin de l'objet:
 	faire quelque chose ...
 ```
 
