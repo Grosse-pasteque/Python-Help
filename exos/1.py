@@ -1,5 +1,5 @@
 # créer une fonction table_de(nombre) qui
-# renvoie une liste qui contien la table du nombre
+# renvoie une liste qui contient la table du nombre
 # de 1 à 10
 
 
