@@ -354,7 +354,7 @@ Ouvre le fichier demander dans le mode passé en argument: `open(fichier, mode)`
 
 Mode:
 - `r` pour lire
-- `w` pour écrire).
+- `w` pour écrire.
 
 ```python
 fichier = open('programme.py', 'r')
